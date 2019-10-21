@@ -4,7 +4,9 @@
 
 ## Introduction
 
-As you have learned in the List Comprehension lesson, list comprehensions allow you to efficiently perform iteration, storage, and even filtering based on conditional statements. List comprehensions are useful for a variety of things, so it is critical that you get sufficient practice and become skilled at identifying when to use them.
+As you have learned in the *List Comprehension* lesson, list comprehensions allow you to efficiently perform iteration, storage and even filtering based on conditional statements. List comprehensions are useful for a variety of things, so it is critical that you get sufficient practice and become skilled at identifying when to use them.
+
+To know more about why to use list comprehensions and what are they useful for, check [this](https://towardsdatascience.com/how-list-comprehensions-can-help-your-code-look-better-and-run-smoother-3cf8f87172ae) Medium article.
 
 In this lab, you will practice constructing list comprehensions and using them to extract and filter information in a variety of scenarios. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
 
@@ -24,3 +26,4 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 - [List Comprehensions | Python Documentation](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 - [Using List Comprehensions With Pandas](https://chrisalbon.com/python/data_wrangling/pandas_list_comprehension/)
+- [How List Comprehensions Can Help Your Code Look Better and Run Smoother](https://towardsdatascience.com/how-list-comprehensions-can-help-your-code-look-better-and-run-smoother-3cf8f87172ae)
